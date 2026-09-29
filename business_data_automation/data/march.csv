@@ -1,0 +1,356 @@
+date,product,category,price,quantity,revenue,customer,region
+2026-03-03,Tablet,Mobile,398.36,2,796.72,C0098,West
+2026-03-12,Bluetooth Speaker,Audio,89.24,2,178.48,C0271,West
+2026-03-02,Noise Cancelling Headphones,Audio,141.38,2,282.76,C0481,Central
+2026-03-29,USB-C Hub,Accessories,39.52,2,79.04,C0125,Central
+2026-03-22,Tablet,Mobile,383.14,1,383.14,C0197,South
+2026-03-09,Power Bank,Mobile,34.13,1,34.13,C0044,Central
+2026-03-01,Gaming Chair,Furniture,228.65,2,457.3,C0024,South
+2026-03-23,USB-C Hub,Accessories,39.39,1,39.39,C0346,Central
+2026-03-17,Webcam,Accessories,70.69,1,70.69,C0126,South
+2026-03-23,USB-C Hub,Accessories,40.53,1,40.53,C0034,Central
+2026-03-11,Wireless Mouse,Accessories,24.12,2,48.24,C0460,West
+2026-03-06,USB-C Hub,Accessories,41.11,1,41.11,C0288,East
+2026-03-27,Webcam,Accessories,69.09,1,69.09,C0202,West
+2026-03-18,Mechanical Keyboard,Accessories,79.72,2,159.44,C0302,East
+2026-03-28,Bluetooth Speaker,Audio,89.6,3,268.8,C0010,North
+2026-03-30,SSD 1TB,Storage,99.7,2,199.4,C0168,Central
+2026-03-11,Mechanical Keyboard,Accessories,79.28,2,158.56,C0145,West
+2026-03-22,Tablet,Mobile,395.71,2,791.42,C0348,South
+2026-03-09,USB-C Hub,Accessories,40.3,1,40.3,C0245,Central
+2026-03-08,USB-C Hub,Accessories,39.78,1,39.78,C0382,North
+2026-03-27,27-inch Monitor,Monitors,246.36,1,246.36,C0070,East
+2026-03-04,Noise Cancelling Headphones,Audio,149.91,4,599.64,C0321,North
+2026-03-17,USB-C Hub,Accessories,39.7,2,79.4,C0246,West
+2026-03-03,Gaming Chair,Furniture,228.71,6,1372.26,C0395,East
+2026-03-16,Mechanical Keyboard,Accessories,80.05,1,80.05,C0101,West
+2026-03-15,Wireless Mouse,Accessories,24.53,1,24.53,C0076,Central
+2026-03-22,Webcam,Accessories,70.38,2,140.76,C0486,North
+2026-03-05,Mechanical Keyboard,Accessories,80.25,1,80.25,C0283,East
+2026-03-24,Wireless Mouse,Accessories,25.52,1,25.52,C0459,West
+2026-03-04,Power Bank,Mobile,35.53,1,35.53,C0206,Central
+2026-03-26,Mechanical Keyboard,Accessories,79.85,2,159.7,C0347,West
+2026-03-13,SSD 1TB,Storage,99.93,1,99.93,C0402,Central
+2026-03-17,Mechanical Keyboard,Accessories,80.91,1,80.91,C0190,West
+2026-03-13,Wireless Mouse,Accessories,25.41,2,50.82,C0362,Central
+2026-03-31,Laptop Stand,Accessories,52.14,1,52.14,C0317,East
+2026-03-13,Tablet,Mobile,394.76,2,789.52,C0040,West
+2026-03-06,Power Bank,Mobile,35.29,1,35.29,C0173,East
+2026-03-10,Wireless Mouse,Accessories,25.56,3,76.68,C0035,East
+2026-03-03,Power Bank,Mobile,34.55,1,34.55,C0088,Central
+2026-03-09,Smart Watch,Wearables,180.0,1,180.0,C0085,Central
+2026-03-20,Power Bank,Mobile,35.29,1,35.29,C0483,North
+2026-03-27,Mechanical Keyboard,Accessories,81.72,1,81.72,C0208,East
+2026-03-09,External HDD 2TB,Storage,79.32,1,79.32,C0321,South
+2026-03-07,Wireless Mouse,Accessories,24.58,1,24.58,C0386,North
+2026-03-18,Smart Watch,Wearables,176.35,3,529.05,C0250,East
+2026-03-29,Mechanical Keyboard,Accessories,78.48,1,78.48,C0032,North
+2026-03-27,Noise Cancelling Headphones,Audio,146.79,2,293.58,C0171,West
+2026-03-27,Smart Watch,Wearables,175.81,1,175.81,C0224,North
+2026-03-26,Webcam,Accessories,70.81,2,141.62,C0371,North
+2026-03-05,Power Bank,Mobile,34.8,2,69.6,C0376,Central
+2026-03-24,Power Bank,Mobile,34.88,2,69.76,C0496,West
+2026-03-08,USB-C Hub,Accessories,40.58,1,40.58,C0260,West
+2026-03-13,Laptop Stand,Accessories,50.54,1,50.54,C0158,West
+2026-03-21,Webcam,Accessories,69.33,2,138.66,C0110,North
+2026-03-05,Gaming Chair,Furniture,226.59,1,226.59,C0028,North
+2026-03-29,Laptop Stand,Accessories,50.54,2,101.08,C0319,West
+2026-03-16,Smart Watch,Wearables,181.56,3,544.68,C0257,Central
+2026-03-16,Mechanical Keyboard,Accessories,77.25,1,77.25,C0115,Central
+2026-03-10,Smart Watch,Wearables,175.81,2,351.62,C0004,West
+2026-03-25,Webcam,Accessories,69.06,1,69.06,C0481,Central
+2026-03-17,Power Bank,Mobile,34.2,1,34.2,C0171,South
+2026-03-22,External HDD 2TB,Storage,78.81,2,157.62,C0062,South
+2026-03-24,Gaming Chair,Furniture,226.23,2,452.46,C0392,East
+2026-03-11,Wireless Mouse,Accessories,24.73,1,24.73,C0112,West
+2026-03-13,Smartphone,Mobile,596.11,1,596.11,C0314,West
+2026-03-08,Tablet,Mobile,394.36,1,394.36,C0004,West
+2026-03-28,27-inch Monitor,Monitors,249.86,2,499.72,C0437,South
+2026-03-13,Gaming Chair,Furniture,225.35,1,225.35,C0018,West
+2026-03-07,Smartphone,Mobile,582.4,1,582.4,C0038,South
+2026-03-27,Noise Cancelling Headphones,Audio,153.62,1,153.62,C0112,West
+2026-03-01,Bluetooth Speaker,Audio,88.72,1,88.72,C0265,West
+2026-03-19,Power Bank,Mobile,35.57,1,35.57,C0139,North
+2026-03-20,SSD 1TB,Storage,99.18,1,99.18,C0401,South
+2026-03-15,Noise Cancelling Headphones,Audio,151.87,2,303.74,C0329,South
+2026-03-26,27-inch Monitor,Monitors,253.39,1,253.39,C0154,East
+2026-03-15,Wireless Mouse,Accessories,24.93,1,24.93,C0167,North
+2026-03-19,USB-C Hub,Accessories,38.67,1,38.67,C0140,East
+2026-03-01,Wireless Mouse,Accessories,24.6,3,73.8,C0476,South
+2026-03-23,Webcam,Accessories,70.36,2,140.72,C0143,East
+2026-03-18,Bluetooth Speaker,Audio,89.26,1,89.26,C0430,East
+2026-03-02,USB-C Hub,Accessories,40.01,1,40.01,C0009,North
+2026-03-22,USB-C Hub,Accessories,40.12,1,40.12,C0001,Central
+2026-03-09,Power Bank,Mobile,34.41,1,34.41,C0089,East
+2026-03-04,Webcam,Accessories,69.98,1,69.98,C0329,North
+2026-03-10,27-inch Monitor,Monitors,244.53,4,978.12,C0075,East
+2026-03-13,Smartphone,Mobile,611.94,1,611.94,C0180,East
+2026-03-12,Gaming Chair,Furniture,233.61,2,467.22,C0085,West
+2026-03-09,Smartphone,Mobile,608.96,2,1217.92,C0157,West
+2026-03-11,Gaming Chair,Furniture,222.52,1,222.52,C0330,North
+2026-03-21,Laptop Stand,Accessories,49.48,2,98.96,C0386,South
+2026-03-28,SSD 1TB,Storage,95.24,1,95.24,C0109,Central
+2026-03-14,Mechanical Keyboard,Accessories,79.02,1,79.02,C0025,East
+2026-03-03,27-inch Monitor,Monitors,248.52,1,248.52,C0481,Central
+2026-03-31,Smartphone,Mobile,608.11,1,608.11,C0002,South
+2026-03-03,SSD 1TB,Storage,99.77,1,99.77,C0043,East
+2026-03-23,Noise Cancelling Headphones,Audio,146.86,1,146.86,C0292,North
+2026-03-14,Tablet,Mobile,396.14,2,792.28,C0123,West
+2026-03-14,Laptop Stand,Accessories,50.58,1,50.58,C0043,East
+2026-03-13,External HDD 2TB,Storage,80.02,1,80.02,C0403,South
+2026-03-22,Smart Watch,Wearables,181.89,2,181.89,C0464,East
+2026-03-05,Wireless Mouse,Accessories,25.1,1,25.1,C0406,West
+2026-03-04,Mechanical Keyboard,Accessories,79.09,1,79.09,C0305,Central
+2026-03-21,Mechanical Keyboard,Accessories,80.08,1,80.08,C0496,South
+2026-03-20,Wireless Mouse,Accessories,25.5,1,25.5,C0484,West
+2026-03-10,USB-C Hub,Accessories,40.0,1,40.0,C0156,South
+2026-03-09,Smartphone,Mobile,608.96,2,1217.92,C0157,West
+2026-03-24,Bluetooth Speaker,Audio,89.62,1,89.62,C0309,North
+2026-03-10,Mechanical Keyboard,Accessories,78.55,1,78.55,C0496,West
+2026-03-02,27-inch Monitor,Monitors,254.13,2,508.26,C0125,Central
+2026-03-28,Wireless Mouse,Accessories,25.38,3,76.14,C0259,North
+2026-03-26,Power Bank,Mobile,35.65,1,35.65,C0128,North
+2026-03-26,USB-C Hub,Accessories,38.88,1,38.88,C0223,South
+2026-03-20,USB-C Hub,Accessories,39.74,1,39.74,C0377,Central
+2026-03-07,Power Bank,Mobile,34.72,1,34.72,C0220,East
+2026-03-19,Wireless Mouse,Accessories,24.8,1,27.28,C0401,West
+2026-03-31,Power Bank,Mobile,35.57,1,35.57,C0201,Central
+2026-03-31,Mechanical Keyboard,Accessories,79.9,2,159.8,C0479,South
+2026-03-31,Smartphone,Mobile,606.02,1,606.02,C0150,Central
+2026-03-18,Smartphone,Mobile,585.93,3,1757.79,C0490,South
+2026-03-20,Mechanical Keyboard,Accessories,80.92,1,80.92,C0129,North
+2026-03-17,Power Bank,Mobile,34.46,1,34.46,C0252,South
+2026-03-01,Wireless Mouse,Accessories,23.94,2,47.88,C0408,South
+2026-03-10,Laptop Stand,Accessories,49.73,1,49.73,C0499,West
+2026-03-29,27-inch Monitor,Monitors,247.13,1,247.13,C0441,South
+2026-03-18,Webcam,Accessories,69.84,2,139.68,C0156,North
+2026-03-02,SSD 1TB,Storage,97.64,1,97.64,C0214,Central
+2026-03-19,Bluetooth Speaker,Audio,89.18,1,89.18,C0098,West
+2026-03-02,SSD 1TB,Storage,97.61,1,97.61,C0414,North
+2026-03-15,Wireless Mouse,Accessories,24.41,2,48.82,C0356,West
+2026-03-20,Webcam,Accessories,67.67,2,135.34,C0367,South
+2026-03-22,Webcam,Accessories,69.67,2,139.34,C0182,North
+2026-03-04,Power Bank,Mobile,35.38,1,35.38,C0171,North
+2026-03-05,Mechanical Keyboard,Accessories,80.08,1,80.08,C0384,Central
+2026-03-16,Gaming Chair,Furniture,232.44,2,464.88,C0308,West
+2026-03-26,Noise Cancelling Headphones,Audio,147.17,1,147.17,C0442,West
+2026-03-22,USB-C Hub,Accessories,40.05,1,40.05,C0096,North
+2026-03-06,Noise Cancelling Headphones,Audio,145.44,1,145.44,C0021,Central
+2026-03-19,Wireless Mouse,Accessories,24.87,1,24.87,C0146,East
+2026-03-07,Laptop Stand,Accessories,48.9,2,97.8,C0108,West
+2026-03-03,Noise Cancelling Headphones,Audio,147.21,1,147.21,C0081,Central
+2026-03-29,Power Bank,Mobile,35.94,1,35.94,C0332,South
+2026-03-20,Bluetooth Speaker,Audio,90.41,1,90.41,C0269,Central
+2026-03-24,Mechanical Keyboard,Accessories,80.53,2,161.06,C0169,East
+2026-03-16,Smartphone,Mobile,603.68,2,1207.36,C0179,North
+2026-03-20,Power Bank,Mobile,35.49,1,35.49,C0148,Central
+2026-03-07,USB-C Hub,Accessories,39.46,1,39.46,C0119,West
+2026-03-09,Wireless Mouse,Accessories,24.84,1,24.84,C0159,East
+2026-03-01,Wireless Mouse,Accessories,24.83,1,24.83,C0207,Central
+2026-03-09,Mechanical Keyboard,Accessories,78.78,1,78.78,C0302,West
+2026-03-31,External HDD 2TB,Storage,78.93,1,78.93,C0090,South
+2026-03-08,SSD 1TB,Storage,98.97,1,98.97,C0278,Central
+2026-03-11,Bluetooth Speaker,Audio,89.85,2,179.7,C0298,West
+2026-03-30,Wireless Mouse,Accessories,24.41,1,24.41,C0114,South
+2026-03-23,27-inch Monitor,Monitors,249.71,1,249.71,C0272,South
+2026-03-06,Wireless Mouse,Accessories,25.39,1,25.39,C0500,East
+2026-03-11,Tablet,Mobile,393.01,1,393.01,C0372,West
+2026-03-25,USB-C Hub,Accessories,39.33,1,39.33,C0052,East
+2026-03-18,SSD 1TB,Storage,98.93,2,197.86,C0401,West
+2026-03-01,Laptop Stand,Accessories,51.15,1,51.15,C0399,West
+2026-03-12,27-inch Monitor,Monitors,245.14,3,735.42,C0415,North
+2026-03-09,Noise Cancelling Headphones,Audio,150.78,1,150.78,C0314,East
+2026-03-22,Smartphone,Mobile,609.75,1,609.75,C0022,North
+2026-03-19,SSD 1TB,Storage,100.61,1,100.61,C0238,East
+2026-03-05,Mechanical Keyboard,Accessories,79.5,1,79.5,C0121,South
+2026-03-08,Smartphone,Mobile,593.93,2,1187.86,C0028,North
+2026-03-03,USB-C Hub,Accessories,40.08,1,40.08,C0105,North
+2026-03-11,Smartphone,Mobile,597.14,1,597.14,C0159,South
+2026-03-04,USB-C Hub,Accessories,40.44,5,202.2,C0092,Central
+2026-03-03,Gaming Chair,Furniture,228.93,1,228.93,C0262,Central
+2026-03-14,Wireless Mouse,Accessories,24.91,3,74.73,C0185,West
+2026-03-05,SSD 1TB,Storage,99.81,2,199.62,C0395,North
+2026-03-15,Noise Cancelling Headphones,Audio,149.1,2,298.2,C0500,Central
+2026-03-08,Webcam,Accessories,70.4,1,70.4,C0468,West
+2026-03-31,Power Bank,Mobile,34.18,1,34.18,C0438,North
+2026-03-07,Bluetooth Speaker,Audio,92.08,2,184.16,C0079,North
+2026-03-20,Webcam,Accessories,71.77,1,71.77,C0459,East
+2026-03-07,Tablet,Mobile,398.95,1,398.95,C0161,North
+2026-03-20,External HDD 2TB,Storage,79.15,3,237.45,C0441,South
+2026-03-28,Bluetooth Speaker,Audio,89.9,2,179.8,C0359,North
+2026-03-21,Bluetooth Speaker,Audio,89.56,2,179.12,C0085,North
+2026-03-15,Power Bank,Mobile,35.11,2,70.22,C0411,East
+2026-03-04,SSD 1TB,Storage,100.63,4,402.52,C0488,West
+2026-03-31,Noise Cancelling Headphones,Audio,148.38,1,148.38,C0488,East
+2026-03-21,Power Bank,Mobile,35.58,1,35.58,C0056,North
+2026-03-27,Webcam,Accessories,69.09,1,69.09,C0202,West
+2026-03-28,External HDD 2TB,Storage,77.91,1,77.91,C0175,Central
+2026-03-30,Power Bank,Mobile,35.97,1,35.97,C0156,East
+2026-03-16,Noise Cancelling Headphones,Audio,149.3,1,149.3,C0222,North
+2026-03-26,Gaming Chair,Furniture,230.97,1,254.07,C0119,Central
+2026-03-19,SSD 1TB,Storage,98.94,1,98.94,C0197,West
+2026-03-21,Mechanical Keyboard,Accessories,80.48,1,80.48,C0349,West
+2026-03-09,Power Bank,Mobile,34.3,1,34.3,C0348,North
+2026-03-20,Webcam,Accessories,69.62,1,69.62,C0162,East
+2026-03-24,USB-C Hub,Accessories,39.77,1,39.77,C0434,West
+2026-03-28,SSD 1TB,Storage,102.11,1,102.11,C0145,Central
+2026-03-09,Noise Cancelling Headphones,Audio,150.42,1,150.42,C0393,West
+2026-03-25,Noise Cancelling Headphones,Audio,147.0,1,147.0,C0259,West
+2026-03-18,Mechanical Keyboard,Accessories,78.18,3,234.54,C0226,East
+2026-03-15,Bluetooth Speaker,Audio,90.67,1,90.67,C0477,North
+2026-03-14,Wireless Mouse,Accessories,25.12,1,25.12,C0487,North
+2026-03-01,USB-C Hub,Accessories,40.36,1,40.36,C0226,West
+2026-03-03,USB-C Hub,Accessories,39.85,1,39.85,C0327,Central
+2026-03-07,Smart Watch,Wearables,174.71,1,174.71,C0456,South
+2026-03-13,Noise Cancelling Headphones,Audio,149.31,1,149.31,C0463,South
+2026-03-15,Power Bank,Mobile,34.27,1,34.27,C0265,East
+2026-03-04,Noise Cancelling Headphones,Audio,151.77,1,151.77,C0305,North
+2026-03-17,Wireless Mouse,Accessories,24.67,1,24.67,C0188,North
+2026-03-02,SSD 1TB,Storage,99.26,1,99.26,C0418,South
+2026-03-07,Mechanical Keyboard,Accessories,80.16,1,80.16,C0023,West
+2026-03-15,Power Bank,Mobile,35.37,1,35.37,C0025,North
+2026-03-24,External HDD 2TB,Storage,81.52,2,163.04,C0379,West
+2026-03-15,27-inch Monitor,Monitors,244.06,2,488.12,C0174,West
+2026-03-10,Power Bank,Mobile,35.13,1,35.13,C0157,North
+2026-03-19,External HDD 2TB,Storage,79.23,1,79.23,C0394,West
+2026-03-26,Tablet,Mobile,409.43,2,818.86,C0215,West
+2026-03-13,Power Bank,Mobile,33.67,2,67.34,C0077,North
+2026-03-02,Wireless Mouse,Accessories,25.32,1,25.32,C0447,South
+2026-03-04,Mechanical Keyboard,Accessories,80.02,1,80.02,C0100,West
+2026-03-24,27-inch Monitor,Monitors,247.0,1,247.0,C0300,West
+2026-03-11,Bluetooth Speaker,Audio,90.15,1,45.08,C0080,South
+2026-03-04,USB-C Hub,Accessories,40.13,1,40.13,C0178,South
+2026-03-14,Tablet,Mobile,391.48,2,782.96,C0406,North
+2026-03-27,Wireless Mouse,Accessories,25.23,1,25.23,C0476,South
+2026-03-08,Mechanical Keyboard,Accessories,77.79,2,155.58,C0222,North
+2026-03-05,Laptop Stand,Accessories,50.5,2,101.0,C0056,Central
+2026-03-29,Smartphone,Mobile,588.47,1,588.47,C0318,North
+2026-03-08,Bluetooth Speaker,Audio,90.35,2,180.7,C0039,Central
+2026-03-25,Noise Cancelling Headphones,Audio,147.74,1,147.74,C0499,Central
+2026-03-15,27-inch Monitor,Monitors,253.03,2,506.06,C0025,East
+2026-03-03,Mechanical Keyboard,Accessories,80.6,1,40.3,C0436,Central
+2026-03-07,Bluetooth Speaker,Audio,90.92,1,90.92,C0388,South
+2026-03-14,Smartphone,Mobile,606.94,1,606.94,C0264,West
+2026-03-26,Mechanical Keyboard,Accessories,80.05,1,80.05,C0207,South
+2026-03-21,SSD 1TB,Storage,99.85,1,99.85,C0007,East
+2026-03-01,Laptop Stand,Accessories,50.57,1,50.57,C0254,South
+2026-03-23,Power Bank,Mobile,34.33,2,68.66,C0054,North
+2026-03-31,Power Bank,Mobile,34.83,1,34.83,C0222,South
+2026-03-31,Webcam,Accessories,70.28,6,421.68,C0119,East
+2026-03-18,External HDD 2TB,Storage,79.1,1,79.1,C0138,North
+2026-03-21,SSD 1TB,Storage,100.62,1,100.62,C0309,Central
+2026-03-06,Laptop Stand,Accessories,48.75,1,48.75,C0141,Central
+2026-03-31,Smartphone,Mobile,608.13,2,1216.26,C0167,West
+2026-03-01,Laptop Stand,Accessories,49.07,1,49.07,C0341,North
+2026-03-28,Gaming Chair,Furniture,229.5,1,229.5,C0175,Central
+2026-03-25,Mechanical Keyboard,Accessories,80.29,1,80.29,C0021,North
+2026-03-28,SSD 1TB,Storage,101.07,2,202.14,C0277,East
+2026-03-05,USB-C Hub,Accessories,39.27,1,39.27,C0055,South
+2026-03-04,Wireless Mouse,Accessories,24.34,2,48.68,C0424,North
+2026-03-11,Laptop Stand,Accessories,50.27,1,50.27,C0191,East
+2026-03-13,External HDD 2TB,Storage,81.83,1,81.83,C0079,West
+2026-03-26,Wireless Mouse,Accessories,24.49,1,24.49,C0410,East
+2026-03-01,External HDD 2TB,Storage,78.03,2,156.06,C0086,North
+2026-03-30,SSD 1TB,Storage,98.86,3,296.58,C0025,North
+2026-03-21,Noise Cancelling Headphones,Audio,150.63,1,150.63,C0299,Central
+2026-03-09,Gaming Chair,Furniture,231.97,2,463.94,C0387,Central
+2026-03-20,Wireless Mouse,Accessories,24.77,2,49.54,C0311,West
+2026-03-14,Gaming Chair,Furniture,232.39,1,232.39,C0428,North
+2026-03-21,Mechanical Keyboard,Accessories,80.14,1,80.14,C0399,West
+2026-03-07,Wireless Mouse,Accessories,25.12,1,25.12,C0282,Central
+2026-03-24,Power Bank,Mobile,35.16,1,35.16,C0083,South
+2026-03-04,Smart Watch,Wearables,179.94,2,359.88,C0162,Central
+2026-03-14,Gaming Chair,Furniture,227.9,1,227.9,C0215,West
+2026-03-09,USB-C Hub,Accessories,39.33,1,39.33,C0330,West
+2026-03-26,27-inch Monitor,Monitors,249.06,1,249.06,C0042,West
+2026-03-03,Power Bank,Mobile,35.24,1,35.24,C0280,South
+2026-03-17,SSD 1TB,Storage,100.48,1,100.48,C0113,North
+2026-03-29,Mechanical Keyboard,Accessories,79.6,4,318.4,C0231,South
+2026-03-24,USB-C Hub,Accessories,41.05,1,41.05,C0417,Central
+2026-03-10,27-inch Monitor,Monitors,246.76,2,493.52,C0122,East
+2026-03-29,Wireless Mouse,Accessories,24.62,1,24.62,C0245,West
+2026-03-24,Wireless Mouse,Accessories,24.99,1,49.98,C0479,North
+2026-03-12,SSD 1TB,Storage,97.29,2,194.58,C0278,North
+2026-03-06,Tablet,Mobile,399.15,1,399.15,C0204,East
+2026-03-23,USB-C Hub,Accessories,40.01,1,40.01,C0057,West
+2026-03-19,Webcam,Accessories,70.18,1,70.18,C0240,West
+2026-03-18,Tablet,Mobile,405.33,1,405.33,C0460,Central
+2026-03-21,Laptop Stand,Accessories,49.95,2,99.9,C0379,West
+2026-03-30,Smartphone,Mobile,600.61,1,600.61,C0056,Central
+2026-03-10,Wireless Mouse,Accessories,24.34,1,24.34,C0194,East
+2026-03-22,Laptop Stand,Accessories,50.73,1,50.73,C0103,East
+2026-03-15,SSD 1TB,Storage,101.4,1,101.4,C0482,North
+2026-03-09,Laptop Stand,Accessories,51.93,1,51.93,C0012,North
+2026-03-02,USB-C Hub,Accessories,41.39,2,82.78,C0296,Central
+2026-03-05,Noise Cancelling Headphones,Audio,149.05,1,149.05,C0496,Central
+2026-03-28,USB-C Hub,Accessories,39.52,1,39.52,C0077,West
+2026-03-13,Power Bank,Mobile,34.99,2,69.98,C0286,East
+2026-03-09,27-inch Monitor,Monitors,254.32,1,254.32,C0185,North
+2026-03-12,SSD 1TB,Storage,100.8,1,100.8,C0193,Central
+2026-03-14,Noise Cancelling Headphones,Audio,153.05,1,153.05,C0335,North
+2026-03-06,Laptop Stand,Accessories,49.65,1,49.65,C0039,East
+2026-03-28,SSD 1TB,Storage,99.22,2,198.44,C0387,South
+2026-03-20,Wireless Mouse,Accessories,24.71,1,24.71,C0019,Central
+2026-03-22,External HDD 2TB,Storage,79.66,1,79.66,C0485,South
+2026-03-20,Mechanical Keyboard,Accessories,79.06,1,79.06,C0273,West
+2026-03-31,Noise Cancelling Headphones,Audio,146.99,1,146.99,C0016,South
+2026-03-27,Noise Cancelling Headphones,Audio,149.94,1,149.94,C0353,East
+2026-03-17,SSD 1TB,Storage,101.91,1,101.91,C0333,East
+2026-03-23,Webcam,Accessories,68.76,1,68.76,C0088,North
+2026-03-09,Mechanical Keyboard,Accessories,82.94,1,82.94,C0314,West
+2026-03-23,USB-C Hub,Accessories,40.11,1,40.11,C0251,Central
+2026-03-10,Smart Watch,Wearables,179.45,1,179.45,C0293,West
+2026-03-26,Wireless Mouse,Accessories,25.5,1,25.5,C0487,East
+2026-03-20,Wireless Mouse,Accessories,24.61,3,73.83,C0063,West
+2026-03-02,Wireless Mouse,Accessories,25.11,1,25.11,C0118,North
+2026-03-25,Laptop Stand,Accessories,48.98,1,48.98,C0316,South
+2026-03-10,Bluetooth Speaker,Audio,87.71,1,87.71,C0276,Central
+2026-03-09,Smartphone,Mobile,590.07,1,590.07,C0048,East
+2026-03-12,Smartphone,Mobile,615.98,1,615.98,C0257,East
+2026-03-08,Laptop Stand,Accessories,50.09,1,50.09,C0222,West
+2026-03-26,USB-C Hub,Accessories,39.44,1,39.44,C0483,West
+2026-03-12,Webcam,Accessories,68.86,2,137.72,C0227,North
+2026-03-02,Tablet,Mobile,400.91,1,400.91,C0154,North
+2026-03-18,USB-C Hub,Accessories,40.31,1,40.31,C0113,Central
+2026-03-21,USB-C Hub,Accessories,40.19,2,80.38,C0313,South
+2026-03-08,Mechanical Keyboard,Accessories,80.81,2,161.62,C0406,South
+2026-03-15,Noise Cancelling Headphones,Audio,149.1,0,298.2,C0500,Central
+2026-03-25,Bluetooth Speaker,Audio,89.06,4,356.24,C0479,North
+2026-03-17,USB-C Hub,Accessories,39.05,1,39.05,C0361,North
+2026-03-09,Gaming Chair,Furniture,222.66,1,222.66,C0055,West
+2026-03-18,Power Bank,Mobile,35.24,1,35.24,C0311,North
+2026-03-12,SSD 1TB,Storage,104.18,1,104.18,C0194,West
+2026-03-30,Mechanical Keyboard,Accessories,79.77,1,79.77,C0012,South
+2026-03-25,Wireless Mouse,Accessories,25.22,1,25.22,C0001,Central
+2026-03-09,Mechanical Keyboard,Accessories,80.02,3,240.06,C0336,North
+2026-03-10,27-inch Monitor,Monitors,-15.0,4,978.12,C0075,East
+2026-03-20,Power Bank,Mobile,35.4,1,35.4,C0336,South
+2026-03-20,Bluetooth Speaker,Audio,90.44,1,90.44,C0090,West
+2026-03-05,Tablet,Mobile,406.35,1,406.35,C0397,Central
+2026-03-10,Laptop Stand,Accessories,49.68,1,49.68,C0069,Central
+2026-03-24,Noise Cancelling Headphones,Audio,147.77,1,147.77,C0449,West
+2026-03-09,Mechanical Keyboard,Accessories,81.26,1,81.26,C0492,South
+2026-03-27,Laptop Stand,Accessories,50.55,2,101.1,C0123,North
+2026-03-28,Bluetooth Speaker,Audio,88.09,1,88.09,C0132,North
+2026-03-11,Tablet,Mobile,393.34,1,393.34,C0388,East
+2026-03-26,27-inch Monitor,Monitors,253.25,2,506.5,C0179,East
+2026-03-16,Laptop Stand,Accessories,49.84,5,249.2,C0343,Central
+2026-03-22,External HDD 2TB,Storage,76.57,1,76.57,C0401,West
+2026-03-15,Power Bank,Mobile,34.72,1,34.72,C0413,Central
+2026-03-20,Tablet,Mobile,389.96,1,389.96,C0281,West
+2026-03-01,Webcam,Accessories,69.33,1,69.33,C0298,West
+2026-03-08,Smart Watch,Wearables,177.44,1,177.44,C0326,South
+2026-03-16,Smart Watch,Wearables,181.12,2,362.24,C0214,North
+2026-03-11,Power Bank,Mobile,35.12,1,35.12,C0226,Central
+2026-03-26,Bluetooth Speaker,Audio,91.41,2,201.1,C0500,Central
+2026-03-21,Smartphone,Mobile,596.62,1,596.62,C0297,North
+2026-03-28,USB-C Hub,Accessories,40.24,1,40.24,C0053,East
+2026-03-16,External HDD 2TB,Storage,79.9,1,79.9,C0225,North
+2026-03-14,Laptop Stand,Accessories,50.58,1,50.58,C0043,East
+2026-03-15,Wireless Mouse,Accessories,24.99,1,24.99,C0044,West
+2026-03-11,Power Bank,Mobile,34.81,2,69.62,C0089,South
+2026-03-18,Wireless Mouse,Accessories,25.22,1,25.22,C0005,West
+2026-03-10,Noise Cancelling Headphones,Audio,150.97,1,150.97,C0311,South
+2026-03-25,Bluetooth Speaker,Audio,89.37,1,89.37,C0304,South
+2026-03-15,SSD 1TB,Storage,98.74,1,98.74,C0180,West
+2026-03-19,27-inch Monitor,Monitors,248.04,1,496.08,C0312,East
